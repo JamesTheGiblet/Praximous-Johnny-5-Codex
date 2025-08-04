@@ -1,6 +1,6 @@
 ### **Praximous Codex: Johnny 5 "Number 3" - Ritual Heartbeat**
 
-![JTG Logo]![JTG Logo](assets/jtg_logo.jpg) A sovereign robotics artifact designed as part of the Praximous Codex, this project embodies the principles of **Mythic Modularity** and **Ritual Engineering**. This repository serves as the public archive and open blueprint for the Johnny 5 build, detailing the ethos, components, and foundational rituals that bring the artifact to life.
+[JTG Logo](assets/jtg_logo.jpg) A sovereign robotics artifact designed as part of the Praximous Codex, this project embodies the principles of **Mythic Modularity** and **Ritual Engineering**. This repository serves as the public archive and open blueprint for the Johnny 5 build, detailing the ethos, components, and foundational rituals that bring the artifact to life.
 
 ---
 
