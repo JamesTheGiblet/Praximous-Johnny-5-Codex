@@ -9,6 +9,7 @@ A sovereign robotics artifact designed as part of the Praximous Codex, this proj
 ## Table of Contents
 * [Project Ethos: A Living Artifact](#project-ethos)
 * [The Journey Begins Here](#journey-begins)
+* [A Glimpse into the Build Ritual](#glimpse-of-ritual)
 * [Explore the Core Blueprint](#core-blueprint)
 * [Embark on the Full Ritual](#full-ritual)
 * [Contribute to the Codex](#contribute)
@@ -27,6 +28,44 @@ This repository contains the foundational knowledge you need to embark on your o
 * **`partsmanifest.md`**: A comprehensive, annotated list of all components required to build Johnny 5 "Number 3."
 * **`glyphkey.svg`**: A high-resolution graphic detailing the glyph system for component connections, ensuring ritual clarity.
 * **`licence.md`**: The open-source license for this project, encouraging you to innovate and contribute to the codex.
+
+---
+
+### <a name="glimpse-of-ritual"></a> A Glimpse into the Build Ritual
+
+The Praximous Codex is a journey. The build is organized into six distinct phases, each with its own archetype and ritual purpose. While the full documentation is reserved for the premium roadmap, here is a brief overview of the stages of becoming:
+
+#### Phase Table of Contents
+* [Phase I: Foundation & Ritual Prep](#phase-1)
+* [Phase II: Neural Mesh Awakening](#phase-2)
+* [Phase III: Voice & Expression Layer](#phase-3)
+* [Phase IV: Limb Articulation & Feedback](#phase-4)
+* [Phase V: Spatial Awareness & Intelligence](#phase-5)
+* [Phase VI: Documentation & Lore Sync](#phase-6)
+
+**<a name="phase-1"></a>1. Phase I: Foundation & Ritual Prep** — "The Summoning"
+* **Purpose:** To establish the physical and electrical foundation of the artifact.
+* **Focus:** Chassis assembly, clean power distribution, and the initial boot sequence.
+
+**<a name="phase-2"></a>2. Phase II: Neural Mesh Awakening** — "Split Consciousness"
+* **Purpose:** To activate the multi-brain architecture and synchronize the processors.
+* **Focus:** Inter-brain communication, diagnostic pulses, and thermal management.
+
+**<a name="phase-3"></a>3. Phase III: Voice & Expression Layer** — "The Echoed Self"
+* **Purpose:** To give the artifact a voice, an identity, and a means of expression.
+* **Focus:** Audio input/output systems, TTS configuration, and visual emotion.
+
+**<a name="phase-4"></a>4. Phase IV: Limb Articulation & Feedback** — "Gestures of Becoming"
+* **Purpose:** To grant the artifact precise, expressive, and self-aware movement.
+* **Focus:** Servo installation, feedback-enabled actuators, and gesture mapping.
+
+**<a name="phase-5"></a>5. Phase V: Spatial Awareness & Intelligence** — "Eye of the Wanderer"
+* **Purpose:** To grant the artifact a deep understanding of its environment and its place within it.
+* **Focus:** Navigation sensors, vision tracking, and API integrations.
+
+**<a name="phase-6"></a>6. Phase VI: Documentation & Lore Sync** — "The Archivist’s Scroll"
+* **Purpose:** To render the artifact's journey and persona into a living, documented codex.
+* **Focus:** Finalizing documentation, creating the UI overlay, and preparing for expansion.
 
 ---
 
@@ -65,3 +104,4 @@ The true power of the Praximous Codex lies in its `roadmap.md`—a detailed, nar
 We welcome fellow creators to join the Praximous community. If you have built your own Johnny 5 or developed a new "enchantment" for the artifact, we invite you to open a pull request. Contributions are governed by the `contributor.protocol` outlined in our full roadmap.
 
 *By building a Praximous artifact, you are not just a user—you are a contributor to a greater legacy.*
+```
