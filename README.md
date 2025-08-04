@@ -6,9 +6,16 @@ A sovereign robotics artifact designed as part of the Praximous Codex, this proj
 
 ---
 
+## Disclaimer
+
+This project is a creative and educational endeavor designed for hobbyist use. The information, plans, and code are provided as-is, with no guarantee of fitness for any particular purpose. Users are responsible for their own safety and for complying with all local laws and regulations regarding the assembly and operation of robotics. By following this codex, you acknowledge that you are building this artifact at your own risk.
+
+---
+
 ## Table of Contents
 * [Project Ethos: A Living Artifact](#project-ethos)
 * [The Journey Begins Here](#journey-begins)
+* [What You'll Need](#what-youll-need)
 * [A Glimpse into the Build Ritual](#glimpse-of-ritual)
 * [Explore the Core Blueprint](#core-blueprint)
 * [Embark on the Full Ritual](#full-ritual)
@@ -28,6 +35,22 @@ This repository contains the foundational knowledge you need to embark on your o
 * **`partsmanifest.md`**: A comprehensive, annotated list of all components required to build Johnny 5 "Number 3."
 * **`glyphkey.svg`**: A high-resolution graphic detailing the glyph system for component connections, ensuring ritual clarity.
 * **`licence.md`**: The open-source license for this project, encouraging you to innovate and contribute to the codex.
+
+---
+
+### <a name="what-youll-need"></a> What You'll Need
+
+This project is intended for builders with an intermediate skill level in electronics and programming. To complete the build, you will need to acquire the following:
+
+* **Parts List**: The definitive list of all components can be found in the **`partsmanifest.md`**.
+* **Essential Tools**:
+    * 3D Printer (for custom parts, such as the neck mount and head)
+    * Soldering Iron & Solder
+    * Wire Strippers & Cutters
+    * Multimeter
+    * Screwdriver set
+* **Skill Level**: This project is suitable for intermediate builders with a basic understanding of Python, Linux (Raspberry Pi OS), and electronics.
+* **3D-Printed Parts**: The artifact requires several custom 3D-printed components. The STL files for these parts are available in the full Praximous Codex Roadmap.
 
 ---
 
@@ -104,4 +127,3 @@ The true power of the Praximous Codex lies in its `roadmap.md`—a detailed, nar
 We welcome fellow creators to join the Praximous community. If you have built your own Johnny 5 or developed a new "enchantment" for the artifact, we invite you to open a pull request. Contributions are governed by the `contributor.protocol` outlined in our full roadmap.
 
 *By building a Praximous artifact, you are not just a user—you are a contributor to a greater legacy.*
-```
