@@ -1,10 +1,10 @@
-### **Praximous Codex: Johnny 5 "Number 3" - Ritual Heartbeat**
+# **Praximous Codex: Johnny 5 "Number 3" - Ritual Heartbeat**
 
 [JTG Logo](assets/jtg_logo.jpg) A sovereign robotics artifact designed as part of the Praximous Codex, this project embodies the principles of **Mythic Modularity** and **Ritual Engineering**. This repository serves as the public archive and open blueprint for the Johnny 5 build, detailing the ethos, components, and foundational rituals that bring the artifact to life.
 
 ---
 
-### **Project Ethos: A Living Artifact**
+## **Project Ethos: A Living Artifact**
 
 Johnny 5 "Number 3" is more than a robot; he is a testament to the power of narrative-infused design. His body speaks in color-coded glyphs, his mind communicates in an interlinked mesh of three distinct processors, and his every action is a step in a sacred, documented ritual. This build is a journey—a challenge to move beyond simple assembly and into the realm of creation.
 
@@ -14,9 +14,9 @@ Johnny 5 "Number 3" is more than a robot; he is a testament to the power of narr
 
 This repository contains the foundational knowledge you need to embark on your own Praximous build. You'll find:
 
--   **`partsmanifest.md`**: A comprehensive, annotated list of all components required to build Johnny 5 "Number 3."
--   **`glyphkey.svg`**: A high-resolution graphic detailing the glyph system for component connections, ensuring ritual clarity.
--   **`licence.md`**: The open-source license for this project, encouraging you to innovate and contribute to the codex.
+   **`partsmanifest.md`**: A comprehensive, annotated list of all components required to build Johnny 5 "Number 3."
+   **`glyphkey.svg`**: A high-resolution graphic detailing the glyph system for component connections, ensuring ritual clarity.
+   **`licence.md`**: The open-source license for this project, encouraging you to innovate and contribute to the codex.
 
 ### **Explore the Core Blueprint**
 
@@ -39,9 +39,9 @@ Each part is chosen for its specific role in the ritual, ensuring a harmonious a
 
 The true power of the Praximous Codex lies in its `roadmap.md`—a detailed, narrative-infused guide that transforms this collection of parts into a living artifact. The roadmap contains:
 
--   **Phase-by-phase instructions** (`"The Summoning,"` `"Split Consciousness,"` etc.)
--   **Detailed build rituals** and `testing rites`
--   **The full lore and backstory** of Johnny 5 "Number 3"
+   **Phase-by-phase instructions** (`"The Summoning,"` `"Split Consciousness,"` etc.)
+   **Detailed build rituals** and `testing rites`
+   **The full lore and backstory** of Johnny 5 "Number 3"
 
 **To access the full, premium Praximous Codex Roadmap, visit our official portal:**
 
